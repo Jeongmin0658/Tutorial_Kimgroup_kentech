@@ -1,4 +1,4 @@
-# This is a space for the contributors of version 2023.
+# This is a space for the contributors of version 2023 summer.
 
 WARNING!!! - Do NOT copy your codes in the other folders!!!
 
