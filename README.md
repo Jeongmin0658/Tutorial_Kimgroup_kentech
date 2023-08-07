@@ -1,5 +1,5 @@
-# Kentech Tutorial of Computational Methods for Sustainability
-This page is for 2023 KENTECH CCP - Let's Roll a Dice: Monte Carlo Simulation 101
+# Kentech Tutorial of Advancing Sustainability through Computational Chemistry Methods.
+This page is for 2023 summer CCP - Let's Roll a Dice: Monte Carlo Simulation 101
 
 1. Python coding
 2. Monte Carlo Simulation - 1
