@@ -8,9 +8,7 @@ Yet, this tutorial is more than just a collection of academic activities. It is 
 
 ---
 # Download tutorial
-You can download the tutorial [here](https://sites.google.com/kentech.ac.kr/kimgroup/tutorial).
-<a href="https://sites.google.com/kentech.ac.kr/kimgroup/tutorial" target="_blank">here</a>
-
+You can download the tutorial [here](https://sites.google.com/kentech.ac.kr/kimgroup/tutorial){:target="_blank" rel="noopener"}.
 
 ---
 # Methods
