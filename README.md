@@ -1,7 +1,7 @@
-# Kentech Tutorial of Advancing Sustainability through Computational Chemistry Methods.
+# Advancing Sustainability through Computational Chemistry Methods.
 
 
-This tutorial is a collaborative effort that showcases the work of undergraduate students of Kentech, with a focus on the computational elements of Chemistry and Energy Engineering. This document will continue to be updated, reflecting the ongoing learning and innovative activities taking place at Kentech.
+This tutorial is a collaborative effort showcasing the work of undergraduate students of Kentech, with a focus on the computational elements of Chemistry and Energy Engineering. This document will continue to be updated, reflecting the ongoing learning and innovative activities taking place at Kentech.
 
 
 Yet, this tutorial is more than just a collection of academic activities. It is envisaged as a platform facilitating the exchange of knowledge and experiences amongst students. Through such discourse, I aspire to foster a positive and dynamic learning culture at Kentech. As we navigate this path of scientific exploration, we are committed to learning, sharing, and collectively evolving.
