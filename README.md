@@ -11,4 +11,6 @@ Yet, this tutorial is more than just a collection of academic activities. It is 
 
 In the spirit of collaboration, all developed codes will be shared openly via GitHub, further enriching the learning experience and ensuring an open-source approach to our scientific journey.
 
-```Monte Carlo simulation``` was developed through a CCP program entitled "Let's Roll a Dice: Monte Carlo Simulation 101" with the support of Kentech Residential College Education Center.
+---
+# Simulation methods
+```Monte Carlo simulation```: Developed through a CCP program entitled "Let's Roll a Dice: Monte Carlo Simulation 101" with the support of Kentech Residential College Education Center.
