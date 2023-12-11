@@ -12,6 +12,6 @@ You can download the tutorial [here](https://sites.google.com/kentech.ac.kr/kimg
 
 ---
 # Methods
-```Monte Carlo simulation```: Developed through a CCP program entitled "Let's Roll a Dice: Monte Carlo Simulation 101" with the support of Kentech Residential College Education Center.
+```Monte Carlo simulation```: Developed through a CCP program entitled "Let's Roll a Dice: Monte Carlo Simulation 101" with the support of Kentech Residential College Education Center. See the 1st edition of the tutorial.
 
-```Molecular Dynamics simulation```: under development through a Class of "Fundamentals of molecular simulation" at Kentech in 2023 Fall.
+```Molecular Dynamics simulation```: Developed through a class of "Fundamentals of molecular simulation" at Kentech in 2023 Fall. See the 2nd edition of the tutorial.
